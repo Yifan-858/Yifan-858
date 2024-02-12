@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my Github 👋
+
+🎨Designer Turning into a Programmer!
+
+I'm currently immersing myself in the world of programming, 
+learning new technologies to become a proficient web developer. 
 
 <!--
 **Yifan-858/Yifan-858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
