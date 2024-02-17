@@ -1,6 +1,6 @@
 ### Welcome to my Github 👋
 
-🎨Designer Turning into a Programmer!
+🎨Scenography Designer Turning into a Programmer!
 
 🌱I'm currently immersing myself in the world of programming, 
 learning new technologies to become a proficient web developer. 
