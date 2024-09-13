@@ -1,4 +1,6 @@
-### Welcome to my Github 👋
+<h1 align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+%F0%9F%91%80;I'm+Yifan+Wang!" alt="Typing SVG" /></a>
+</h1>
 
 🎨Scenography Designer Turning into a Programmer!
 
