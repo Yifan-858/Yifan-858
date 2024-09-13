@@ -23,6 +23,8 @@
 </a>
 
 <br/>
+<br/>
+<br/>
 <h3>🛠 Languages - Frameworks - Tools 🛠</h3>
 <h4>Develop:</h4>
 <a href="https://react.dev/" target="_blank">
@@ -87,6 +89,7 @@
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" target="_blank" />
 </a>
 
+<br/><br/><br/>
 
 <!--
 **Yifan-858/Yifan-858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
