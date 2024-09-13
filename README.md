@@ -1,10 +1,7 @@
 <h1 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+%F0%9F%91%80+I'm+Yifan+Wang!" alt="Typing SVG" /></a>
 
-🎨Scenography Designer Turning into a Programmer!
 
-🌱I'm currently immersing myself in the world of programming, 
-learning new technologies to become a proficient web developer. 
 
 <!--
 **Yifan-858/Yifan-858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
