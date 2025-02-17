@@ -27,69 +27,14 @@
 <br/>
 <h3>🛠 Languages - Frameworks - Tools 🛠</h3>
 <h4>Develop:</h4>
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,blender&perline=3)](https://skillicons.dev)
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
-</a>
-<a href="https://sass-lang.com/" target="_blank">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank" />
-</a>
-<a href="https://styled-components.com/" target="_blank">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank" />
-</a>
-<a href="https://threejs.org/" target="_blank">
-<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" target="_blank" />
-</a>
-<a href="https://www.chartjs.org/" target="_blank">
-<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" target="_blank" />
-</a>
-<a href="https://mui.com/" target="_blank">
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" target="_blank" />
-</a>
-<a href="https://nodejs.org/en" target="_blank">
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" target="_blank" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" />
-</a>
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" target="_blank" />
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" target="_blank" />
-</a>
-<a href="https://cloudinary.com/" target="_blank">
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" target="_blank" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,ts,html,css,sass,styledcomponents,materialui,threejs,ember,express,rails,mongodb,nodejs,ubuntu,postman,git,vite" />
 </a>
 <h4>Design:</h4>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,sketchup" />
 </a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank" />
-</a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank" />
-</a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" target="_blank" />
-</a>
+
 
 <br/><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy" />
