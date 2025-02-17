@@ -27,6 +27,8 @@
 <br/>
 <h3>🛠 Languages - Frameworks - Tools 🛠</h3>
 <h4>Develop:</h4>
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,blender&perline=3)](https://skillicons.dev)
+
 <a href="https://react.dev/" target="_blank">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank" />
 </a>
