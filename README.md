@@ -34,7 +34,18 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,sketchup" />
 </a>
-
+<br/>
+<br/>
+<br/>
+<h3>❤️ Featured Project ❤️</h3>
+<img src="https://github.com/Yifan-858/shuffle-your-worries/blob/main/media/preview.gif" />
+Everyone can feel pressure and worry during these uncertain times, with so much going on in the outside world. <br/>
+I thought: Why not turn this “mind swirl” into a web app <br/>
+to help people untangle their inner world of overloaded thoughts—and maybe even have a laugh about it?<br/>
+<br/>
+With my background and passion in 3D modeling and web development,<br/>
+I’m using Three.js to implement interactive 3D visualizations that bring this concept to life.<br/>
+Check out the full project code in the repository! https://github.com/Yifan-858/shuffle-your-worries
 
 <br/><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy" />
