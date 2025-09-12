@@ -4,9 +4,9 @@
 
 <br/>
 
-🤹🏻‍♀️ I'm a web developer 👩🏻‍💻 & a designer 👩🏻‍🎨 & a theater technician 👩🏻‍🔧
+🤹🏻‍♀️ I'm a developer 👩🏻‍💻 & a designer 👩🏻‍🎨 & a theater technician 👩🏻‍🔧
 
-🌱 I’m currently working on implementing my 3D design into my web development work.
+🌱 I’m currently working on combining my 3D models with my program projects.
 
 🤔 I’m looking for help with finding a job in IT industry
 
