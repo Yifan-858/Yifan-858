@@ -48,7 +48,7 @@ I’m using Three.js to implement interactive 3D visualizations that bring this 
 Check out the full project code in the repository! https://github.com/Yifan-858/shuffle-your-worries
 
 <br/><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy" />
+
 <!--
 **Yifan-858/Yifan-858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
