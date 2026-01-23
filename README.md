@@ -28,7 +28,7 @@
 <h3>🛠 Languages - Frameworks - Tools 🛠</h3>
 <h4>Develop:</h4>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cs,dotnet,react,javascript,ts,html,css,materialui,threejs,ember,express,nestjs,rails,mongodb,postgres,nodejs,ubuntu,docker,postman,git,vite" />
+    <img src="https://skillicons.dev/icons?i=aws,cs,dotnet,py,react,javascript,ts,html,css,materialui,threejs,ember,express,nestjs,mongodb,postgres,nodejs,ubuntu,docker,postman,git,vite" />
 </a>
 <h4>Design:</h4>
 <a href="https://skillicons.dev">
