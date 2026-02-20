@@ -8,7 +8,7 @@
 
 🌱 I’m currently working on combining my 3D models with my program projects.
 
-🤔 I’m looking for help with finding a job in IT industry
+🤔 I’m trying to understand IT industry a bit more everyday.
 
 📫 How to reach me: 
 
